@@ -1,0 +1,16 @@
+unicode_literals, print_function
+flask 
+PyPDF2 
+requests
+json
+PIL 
+ pytesseract 
+sys 
+pdf2image  
+os 
+werkzeug.utils 
+plac
+random
+pathlib 
+spacy
+tqdm 
